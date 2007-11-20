@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Pod-InDesign-TaggedText
-version:             0.10
+version:             0.11
 abstract:            Convert Pod to InDesign's Tagged Text format
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.36
